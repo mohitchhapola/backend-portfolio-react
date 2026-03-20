@@ -1,28 +1,42 @@
-# Backend Portfolio Project
+# Backend Developer Portfolio
 
-This is a complete backend portfolio project featuring a React frontend and a Node.js backend.
+A modern portfolio website showcasing backend development skills, projects, and experience.
 
-## Features
-- Personal portfolio showcase
-- Contact form with email service
-- Skills and experience timeline
+**Live Demo**: [Your deployed site]
 
-## Technologies Used
-- React
-- Node.js
-- Express
-- MongoDB
+## 👨‍💻 About
+
+Backend Developer with expertise in:
+- **Node.js** | **Express** | **NestJS**
+- **PostgreSQL** | **MongoDB** | **MySQL**
+- **AWS SQS** | **RESTful APIs** | **Microservices**
+
+Currently working at **Shaurya Software** building School ERP systems.
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
 - Tailwind CSS
 - Framer Motion
-
-## Setup Instructions
-### Frontend
-1. Navigate to the `frontend` directory.
-2. Install dependencies using `npm install`.
-3. Start the development server with `npm start`.
+- React Router
+- Lucide React Icons
 
 ### Backend
-1. Navigate to the `backend` directory.
-2. Install dependencies using `npm install`.
-3. Set up your environment variables in a `.env` file.
-4. Start the server with `node server.js`.
+- Node.js
+- Express.js
+- Nodemailer
+- CORS
+
+## 📦 Installation
+
+### Prerequisites
+- Node.js (v14+)
+- npm or yarn
+
+### Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm start
