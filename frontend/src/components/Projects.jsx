@@ -24,7 +24,7 @@ const Projects = () => {
       tags: ['Node.js', 'AWS SQS', 'PostgreDql'],
       link: '#',
       github: 'https://github.com/mohitchhapola',
-      // highlights: ['Async processing', 'Failed job retry', 'Queue monitoring', 'Error handling'],
+      highlights: ['Async processing', 'Error handling'],
     },
     {
       id: 3,
@@ -103,7 +103,7 @@ const Projects = () => {
                 <div className="mb-4">
                   <h4 className="text-xs font-semibold text-accent mb-2">Highlights:</h4>
                   <ul className="space-y-1">
-                    {project.highlights.map((highlight, idx) => (
+                    {project?.highlights?.map((highlight, idx) => (
                       <li key={idx} className="text-xs text-text-secondary flex items-center gap-2">
                         <span className="text-accent">•</span>
                         {highlight}
