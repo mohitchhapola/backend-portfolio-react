@@ -3,6 +3,7 @@
   "name": "backend-developer-portfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "proxy": "http://localhost:5000",
   "dependencies": {
     "react": "^18.2.0",
