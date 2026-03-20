@@ -75,8 +75,8 @@ const Contact = () => {
             className="space-y-6"
           >
             {[
-              { icon: Mail, label: 'Email', value: 'your@email.com', link: 'mailto:your@email.com' },
-              { icon: Phone, label: 'Phone', value: '+91 XXXXX XXXXX', link: 'tel:+91' },
+              { icon: Mail, label: 'Email', value: 'chhapolamohit07@email.com', link: 'mailto:chhapolamohit070@gmail.com' },
+              { icon: Phone, label: 'Phone', value: '+91 83077 25025', link: 'tel:+91' },
               { icon: MapPin, label: 'Location', value: 'India', link: '#' },
             ].map((item, index) => {
               const Icon = item.icon;

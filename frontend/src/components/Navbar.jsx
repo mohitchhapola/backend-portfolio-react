@@ -44,17 +44,17 @@ const Navbar = () => {
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16">
+        <div className="flex items-center justify-around h-16">
           
           {/* Logo */}
-          <motion.div
+          {/* <motion.div
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
             <Link to="/" className="gradient-text text-2xl font-bold">
               MC.dev
             </Link>
-          </motion.div>
+          </motion.div> */}
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center gap-8">

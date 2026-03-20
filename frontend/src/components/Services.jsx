@@ -29,11 +29,11 @@ const Services = () => {
       title: 'AWS Services',
       description: 'Implementing AWS SQS and other cloud services',
     },
-    {
-      icon: Wrench,
-      title: 'System Architecture',
-      description: 'Designing scalable microservices and system architecture',
-    },
+    // {
+    //   icon: Wrench,
+    //   title: 'System Architecture',
+    //   description: 'Designing scalable microservices and system architecture',
+    // },
   ];
 
   const containerVariants = {
