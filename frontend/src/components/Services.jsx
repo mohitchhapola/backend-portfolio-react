@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Code2, Database, Zap, Shield, Cloud, Wrench } from 'lucide-react';
+import { Code2, Database, Zap, Shield, Cloud } from 'lucide-react';
 
 const Services = () => {
   const services = [
